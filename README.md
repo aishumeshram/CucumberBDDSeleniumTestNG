@@ -1,5 +1,4 @@
 ## CucumberBDDSeleniumTestNG
-- TheTestingAcademy - https://sdet.live
 
 #Framework consists of:-
 - Java 11
@@ -9,7 +8,6 @@
 - Maven
 - Selenium
 - Allure Reports
-
 
 # Project Details
 - URL - https://app.vwo.com
